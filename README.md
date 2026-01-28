@@ -1,5 +1,9 @@
 # Voice Keyer
 
+I asked Claude AI to find me a voice keyer written in python 3 so I could eventually add it to FDLog_Enhanced.    
+Instead it wrote one in minutes. I then gave it to Claude Code to sweat over.       
+You got your choice! A female robot to seduce QSOs or record your own voice. 
+
 A standalone voice keyer for amateur radio operators. Assign voice messages to F1-F8 keys using text-to-speech or your own recorded audio.
 
 ## Features
